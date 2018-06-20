@@ -46,7 +46,7 @@
         {
             "userID": 0,
             "userName": "angel",
-            "pin": "1234",
+            "pin": 1234,
             "token": 9990,
             "eventList": [
                 "00",
@@ -65,7 +65,7 @@
         {
             "userID": 1,
             "userName": "dani",
-            "pin": "1234",
+            "pin": 1234,
             "token": 9991,
             "eventList": [
                 "00",
@@ -82,7 +82,7 @@
         {
             "userID": 2,
             "userName": "obdulia",
-            "pin": "4321",
+            "pin": 4321,
             "token": 9992,
             "eventList": [
                 "00"
@@ -97,7 +97,7 @@
         {
             "userID": 3,
             "userName": "jose",
-            "pin": "4321",
+            "pin": 4321,
             "token": 9993,
             "eventList": [],
             "welcome": "",
