@@ -40,6 +40,22 @@
                     "users": ["angel"]
                 }
             ] 
+        },
+        {
+            "wifiID": 2,
+            "wifiName":"GET12-06",
+            "eventArray": [
+                {
+                    "eventID": "00",
+                    "eventName": "Ionic Course",
+                    "users": ["angel", "dani", "obdulia"]
+                },
+                {
+                    "eventID": "01",
+                    "eventName": "Ficha2",
+                    "users": ["angel", "dani"]
+                }
+            ] 
         }
     ],
     "users": [
