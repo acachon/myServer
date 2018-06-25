@@ -86,7 +86,7 @@
             "token": 9990,
             "eventList":[
                 {"eventName": "Ionic_Course", "checkIn": true, "message": "Ya habias hecho checkIn. No tienes mas mensajes"},
-                {"eventName": "Solo_Chicos", "checkIn": false, "message": "Hoy a las 13:45 cervezas para despedirnos, Angel"},
+                {"eventName": "Solo_Chicos", "checkIn": false, "message": "Hoy a las 13:45 cervezas para despedirnos, como dios manda Angel. Hoy a las 13:45 cervezas para despedirnos, como dios manda AngelHoy a las 13:45 cervezas para despedirnos, como dios manda AngelHoy a las 13:45 cervezas para despedirnos, como dios manda AngelHoy a las 13:45 cervezas para despedirnos, como dios manda AngelHoy a las 13:45 cervezas para despedirnos, como dios manda AngelHoy a las 13:45 cervezas para despedirnos, como dios manda Angel"},
                 {"eventName": "Privado", "checkIn": false, "message": "Bienvenido a la fiesta!"}
             ],
             "welcome": "Mensaje del profesor para Angel",
