@@ -1,4 +1,31 @@
 {
+    "geojson":{
+        "type": "Feature",
+        "geometry": 
+        {
+            "type": "GeometryCollection",
+            "geometries": 
+            [
+                {
+                "type": "Point",
+                "coordinates": [-3.7305, 37.8527]
+                },
+                {
+                "type": "LineString",
+                "coordinates": 
+                    [
+                        [-3.7409, 37.853], 
+                        [-3.7296, 37.853]
+                    ]
+                }
+            ]
+        },
+        "properties": 
+        {
+            "name": "null island"
+        }  
+    },
+
     "posts": [
         {
             "id": 0,
